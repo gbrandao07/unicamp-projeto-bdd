@@ -1,0 +1,16 @@
+<cResultado>
+	<Servicos>
+		<cServico>
+			<Codigo>0</Codigo>
+			<Valor>0</Valor>
+			<ValorMaoPropria>0</ValorMaoPropria>
+			<ValorAvisoRecebimento>0</ValorAvisoRecebimento>
+			<ValorValorDeclarado>0</ValorValorDeclarado>
+			<Erro>99</Erro>
+			<MsgErro>
+				Erro inesperado. Descrição: Input string was not in a correct format.
+			</MsgErro>
+			<ValorSemAdicionais>0</ValorSemAdicionais>
+		</cServico>
+	</Servicos>
+</cResultado>

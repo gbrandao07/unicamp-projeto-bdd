@@ -1,0 +1,15 @@
+<cResultado>
+	<Servicos>
+		<cServico>
+			<Codigo>41106</Codigo>
+			<Valor>40.25</Valor>
+			<PrazoEntrega>1</PrazoEntrega>
+			<ValorMaoPropria>0,00</ValorMaoPropria>
+			<ValorAvisoRecebimento>0,00</ValorAvisoRecebimento>
+			<ValorValorDeclarado>0,00</ValorValorDeclarado>
+			<Erro>0</Erro>
+			<MsgErro />
+			<ValorSemAdicionais>40</ValorSemAdicionais>
+		</cServico>
+	</Servicos>
+</cResultado>

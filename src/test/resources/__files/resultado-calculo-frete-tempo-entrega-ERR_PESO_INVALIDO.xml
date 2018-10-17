@@ -1,0 +1,16 @@
+<cResultado>
+	<Servicos>
+		<cServico>
+			<Codigo>40010</Codigo>
+			<Valor>0</Valor>
+			<ValorMaoPropria>0</ValorMaoPropria>
+			<ValorAvisoRecebimento>0</ValorAvisoRecebimento>
+			<ValorValorDeclarado>0</ValorValorDeclarado>
+			<Erro>-888</Erro>
+			<MsgErro>
+				Não foi encontrada precificação. ERP-031: Nao informado o peso, a quantidade ou o valor(-1).
+			</MsgErro>
+			<ValorSemAdicionais>0</ValorSemAdicionais>
+		</cServico>
+	</Servicos>
+</cResultado>

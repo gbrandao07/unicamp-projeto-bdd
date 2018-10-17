@@ -1,0 +1,16 @@
+<cResultado>
+	<Servicos>
+		<cServico>
+			<Codigo>40010</Codigo>
+			<Valor>0</Valor>
+			<ValorMaoPropria>0</ValorMaoPropria>
+			<ValorAvisoRecebimento>0</ValorAvisoRecebimento>
+			<ValorValorDeclarado>0</ValorValorDeclarado>
+			<Erro>-22</Erro>
+			<MsgErro>
+				O comprimento nao pode ser inferior a 16 cm.
+			</MsgErro>
+			<ValorSemAdicionais>0</ValorSemAdicionais>
+		</cServico>
+	</Servicos>
+</cResultado>
